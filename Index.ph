@@ -9,5 +9,8 @@ class tarea {
     }
 }
 class Index {
+    
+    function menorDosNumeros ($nl,$n2){
+                  return 0,
    
 }
